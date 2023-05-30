@@ -1,0 +1,58 @@
+# Albums & cocktails
+
+- Eminem - The Marshall Mathers LP
+  - [Spotify](https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ?si=iFVxbtWmRR-KMYZZN0lVqQ)
+  - [background](https://www.udiscovermusic.com/stories/eminem-the-marshall-mathers-lp/)
+  - gpt prompt once it's available again: Can you explain the cultural significance of The Marshall Mathers LP, to someone who has mostly been interested in pop and emo music?
+  - "The Slim Shady Sour Remix"
+    - Ingredients: 2 oz spiced rum, 1 oz lime juice, 1 oz ginger syrup, 1 dash of hot sauce, 1 sprig of cilantro
+    - Instructions: Shake all ingredients with ice, strain into a glass. Garnish with a lime wheel and a sprig of cilantro.
+    - This funky twist on the classic sour incorporates spiced rum, ginger syrup, and a hint of heat from hot sauce to match Eminem's dynamic style.
+- Odesza - A Moment Apart
+  - [Spotify](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ?si=Qq23xfcATvOko9R22wyqrg)
+  - Keywords: Taiwan, bonfire-people
+  - "Electro-Punch Delight"
+    - Ingredients: 1.5 oz coconut rum, 1 oz passion fruit juice, 0.5 oz blue curaçao, 0.5 oz lime juice, 1 oz sparkling water, edible glitter (optional)
+    - Instructions: Shake coconut rum, passion fruit juice, blue curaçao, and lime juice with ice. Strain into a glass with ice, top with sparkling water. Garnish with a sprinkle of edible glitter (optional).
+    - This vibrant cocktail combines tropical flavors, a touch of blue curaçao for visual appeal, and a hint of shimmer to capture Odesza's colorful and upbeat sound.
+- Avril Lavigne - Let Go
+  - [Spotify](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy?si=J96h5PRTSHajjmxebDBA8g)
+  - Keywords: first love, 7th grade(?)
+  - "Punk Pop Fizz"
+    - Ingredients: 2 oz gin, 0.5 oz lemon juice, 0.5 oz raspberry syrup, 0.5 oz rosemary-infused honey syrup, tonic water
+    - Instructions: Shake gin, lemon juice, raspberry syrup, and rosemary-infused honey syrup with ice. Strain into a glass with ice, top with tonic water. Garnish with a sprig of rosemary and a lemon twist.
+    - This cocktail takes the Rock 'n' Raspberry Smash to the next level with the addition of rosemary-infused honey syrup and a refreshing twist of tonic water.
+- Maribou State - Portraits
+  - [Spotify](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1?si=_a_MBNYaTUahaiRqamZO-Q)
+  - Keywords: roskilde, calm, unexpected
+  - "Ambient Bliss Martini"
+    - Ingredients: 2 oz vodka, 0.5 oz elderflower liqueur, 0.5 oz lychee syrup, 1 oz lime juice, edible flower petals (for garnish)
+    - Instructions: Shake vodka, elderflower liqueur, lychee syrup, and lime juice with ice. Strain into a martini glass. Garnish with floating edible flower petals.
+    - This ethereal martini combines the floral notes of elderflower and lychee, enhancing the soothing and atmospheric vibes of Maribou State.
+- Porter Robinson - Worlds
+  - [Spotify](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD?si=fxhQiy2XQOSaQR26UFnatg)
+  - Keywords: Tog et par lytninger før jeg "forstod" det
+  - "Synthetic Fusion Spritzer"
+    - Ingredients: 1.5 oz mezcal, 0.75 oz grapefruit juice, 0.5 oz lychee liqueur, 0.5 oz agave syrup, 2 dashes of bitters, grapefruit peel (for garnish)
+    - Instructions: Shake mezcal, grapefruit juice, lychee liqueur, agave syrup, and bitters with ice. Strain into a glass with ice. Garnish with a twisted grapefruit peel.
+    - This cocktail embraces Porter Robinson's futuristic sound by combining smoky mezcal, fruity lychee liqueur, and a touch of bitters for complexity.
+- Flume - Flume
+  - [Spotify](https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc?si=_RorHGjhS2W1ocx79_EoCA)
+  - Keywords: Roskilde, missed out, vibed more with albums than live
+  - "Chillwave Remix Mojito"
+    - Ingredients: 2 oz coconut rum, 1 oz lime juice, 0.75 oz lemongrass syrup, 6-8 fresh basil leaves, soda water
+    - Instructions: Muddle basil leaves in a glass with lime juice and lemongrass syrup. Add coconut rum and ice
+- John Legend - Get Lifted
+  - [Spotify](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J?si=Cpvl7msKTAO9tFnNf4Dk1g)
+  - Keywords: Piano, Roskilde, dancing, raining
+  - "Soulful Serenade"
+    - Ingredients: 2 oz bourbon, 0.5 oz maple syrup, 2 dashes of aromatic bitters, orange twist (for garnish)
+    - Instructions: Stir bourbon, maple syrup, and bitters with ice until well-chilled. Strain into a rocks glass over ice. Garnish with an orange twist.
+    - This cocktail embodies the smooth and soulful vibes of John Legend with the warmth of bourbon and the rich sweetness of maple syrup.
+- Deadmau5 - Random Album Title
+  - [Spotify](https://open.spotify.com/album/64SsM8JQXemXaXvHOmRTJe?si=NM7tKdNFRP6oKB5cxYwUqA) 
+  - Keywords: New direction, world of electronic music
+  - "The Mau5 Martini"
+    - Ingredients: 2 oz vodka, 0.5 oz blue curaçao, 0.5 oz lime juice, 0.5 oz simple syrup, black sugar (for rimming), lime wheel (for garnish)
+    - Instructions: Rim a martini glass with black sugar. Shake vodka, blue curaçao, lime juice, and simple syrup with ice. Strain into the prepared glass. Garnish with a lime wheel.
+    - This cocktail pays homage to Deadmau5's iconic mau5head and features a vibrant blue color with a touch of sweetness and tartness.
